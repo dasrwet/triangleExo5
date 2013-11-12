@@ -1,0 +1,10 @@
+ex05
+
+1/1
+
+.gitignore ?
+
+query
+->
+querySelector
+
